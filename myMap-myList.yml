@@ -1,0 +1,21 @@
+0: a
+1: b
+2: c
+3: d
+4: e
+5: f
+6: g
+7: h
+8: i
+9: j
+--- 
+- "M\u016fj string0"
+- "M\u016fj string1"
+- "M\u016fj string2"
+- "M\u016fj string3"
+- "M\u016fj string4"
+- "M\u016fj string5"
+- "M\u016fj string6"
+- "M\u016fj string7"
+- "M\u016fj string8"
+- "M\u016fj string9"
